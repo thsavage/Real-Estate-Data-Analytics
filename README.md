@@ -5,4 +5,4 @@ This repository contains Jupyter notebooks to be rendered by students of Real Es
 
   * It is always possible to render Jupyter notebooks through this [link](https://nbviewer.jupyter.org/).
 
-  * R Notebooks for each class will be distributed through NYU Classes.
+  * R Notebooks for each class will be distributed through Brightspace.
