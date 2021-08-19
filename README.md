@@ -1,5 +1,5 @@
 # Real-Estate-Data-Analytics
-This repository contains Jupyter notebooks to be rendered by students of Real Estate Data Analytics at the NYU Schack Insitute of Real Estate.
+This repository contains Jupyter notebooks to be rendered by students of Real Estate Data Analytics (REAL1-GC.3135.001/DEVE1-GC.3135.001) at the NYU Schack Insitute of Real Estate.
 
 
 
