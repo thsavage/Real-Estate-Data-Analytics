@@ -9,4 +9,3 @@ The Jupyter notebooks can be rendered through GitHub, but there may be processin
 
 Links to Courses will be updated regularly.
   * [Course Arc](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Course%20Arc.ipynb)
-  * [Class 1](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%201.ipynb)
