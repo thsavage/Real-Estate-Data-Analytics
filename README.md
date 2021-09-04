@@ -3,7 +3,7 @@ This repository contains Jupyter notebooks to be rendered by students of Real Es
 
 
 
-The Jupyter notebooks can be rendered through GitHub, but there may be processing errors.  It is always possible to render Jupyter notebooks through this [link](https://nbviewer.jupyter.org/).  R notebooks will be distributed through Brightspace.
+The Jupyter notebooks can be rendered through GitHub, but there may be processing errors.  It is always possible to render Jupyter notebooks through this [link](https://nbviewer.jupyter.org/).  R notebooks will be distributed through NYU Brightspace.
 
 
 
