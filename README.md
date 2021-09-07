@@ -5,7 +5,9 @@ This repository contains Jupyter notebooks to be rendered by students of Real Es
 
 The Jupyter notebooks can be rendered through GitHub, but there may be processing errors.  It is always possible to render Jupyter notebooks through this [link](https://nbviewer.jupyter.org/).  R notebooks will be distributed through NYU Brightspace.
 
-
+Some useful links:
+* [CRAN](https://cran.r-project.org/)
+* [FRED](https://fred.stlouisfed.org/)
 
 Links to Courses will be updated regularly.
   * [Course Arc](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Course%20Arc.ipynb)
