@@ -13,3 +13,4 @@ Links to Courses will be updated regularly.
   * [Course Arc](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Course%20Arc.ipynb)
   * [Class 1](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%201.ipynb)
   * [Class 2](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%202.ipynb)
+  * [Class 3](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%203.ipynb)
