@@ -8,6 +8,7 @@ The Jupyter notebooks can be rendered through GitHub, but there may be processin
 Some useful links:
 * [CRAN](https://cran.r-project.org/)
 * [FRED](https://fred.stlouisfed.org/)
+* [Stack Overflow](https://stackoverflow.com/)
 
 Links to classes will be updated regularly:
   * [Course Arc](https://nbviewer.jupyter.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Course%20Arc.ipynb)
