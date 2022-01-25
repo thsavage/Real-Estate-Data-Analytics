@@ -8,6 +8,7 @@ The Jupyter notebooks can be rendered through GitHub, but there may be processin
 Some useful links:
 * [CRAN](https://cran.r-project.org/)
 * [FRED](https://fred.stlouisfed.org/)
+* Professor Chin's [data compendium](http://econbrowser.com/archives/2019/06/the-data-will-make-you-free)
 * [Stack Overflow](https://stackoverflow.com/)
 
 Links to classes will be updated regularly:
