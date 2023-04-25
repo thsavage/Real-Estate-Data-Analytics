@@ -21,4 +21,4 @@ Links to classes will be updated regularly:
   * [Classes 8 and 9](https://nbviewer.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%208.ipynb)
   * [Classes 10, 11 and 12](https://nbviewer.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%2010.ipynb)
   * [Class 13](https://nbviewer.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%2013.ipynb)
-  * [Class 14](https://github.com/thsavage/Real-Estate-Data-Analytics/blob/main/Class%2014.ipynb)
+  * [Class 14](https://nbviewer.org/github/thsavage/Real-Estate-Data-Analytics/blob/main/Class%2014.ipynb)
